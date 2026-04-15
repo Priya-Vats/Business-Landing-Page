@@ -1,13 +1,48 @@
-# The Retail Leadership Lab
+🧪 The Retail Leadership Lab
+Building the 5-9 that replaces the 9-5.
+The Retail Leadership Lab is a digital ecosystem designed to help retail leaders transition from the corporate floor to digital leverage. We provide the tools, mindset, and systems to turn corporate expertise into scalable impact and reclaimable time.
 
-Building the 5-9 that replaces the 9-5. Helping retail leaders transition from the corporate floor to digital leverage with scalable impact and reclaimable time.
+🎯 The Mission
+Helping leaders move from corporate compliance to creator ownership. We focus on three core pillars:
 
-## Features
+🧠 Mindset Shift: Breaking the "hourly rate" ceiling and adopting an owner-operator mentality.
 
-- **Mindset Shift**: Transform from corporate compliance to creator ownership
-- **Digital Leverage**: Scale impact without burning out
-- **Scaled Freedom**: Achieve financial freedom and reclaim your time
+⚡ Digital Leverage: Building automated systems that scale impact without physical presence.
 
-## Getting Started
+🔓 Scaled Freedom: Engineering financial independence to reclaim the most valuable asset: time.
 
-Book a free clarity call to get started on your transformation journey.
+🛠️ Tech Stack
+This platform is custom-built for high-performance and aesthetic minimalism:
+
+Frontend: React.js (Component-based architecture)
+
+Styling: Tailwind CSS (Modern, utility-first design)
+
+UI Components: Shadcn/UI & Framer Motion
+
+Tooling: Vite for lightning-fast builds
+
+Testing: Playwright & Vitest for robust reliability
+
+🚀 Key Features
+Responsive Landing Page: Pixel-perfect design across all devices.
+
+SEO Optimized: Semantic HTML5 and high-performance Core Web Vitals.
+
+Conversion Focused: Strategy-led UI to drive clarity-call bookings.
+
+📦 Getting Started
+To run this project locally:
+
+Clone the repository:
+
+Bash
+git clone https://github.com/your-username/retail-leadership-lab.git
+Install dependencies:
+
+Bash
+npm install  # or bun install
+Run the development server:
+
+Bash
+npm run dev

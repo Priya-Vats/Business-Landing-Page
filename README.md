@@ -37,7 +37,7 @@ To run this project locally:
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/retail-leadership-lab.git
+git clone https://github.com/Priya-Vats/Business-Landing-Page.git
 Install dependencies:
 
 Bash
